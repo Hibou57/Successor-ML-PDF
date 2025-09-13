@@ -1,2 +1,2 @@
 # Successor-ML PDF
-PDF build from https://github.com/SMLFamily/Successor-ML
+PDF generated from https://github.com/SMLFamily/Successor-ML
